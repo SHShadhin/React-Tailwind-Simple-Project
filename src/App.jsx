@@ -10,9 +10,8 @@ function App() {
       
       <Navbar></Navbar>
 
-      <DaisyNav></DaisyNav> 
+      {/* <DaisyNav></DaisyNav>  */}
 
-      <h1 className="text-5xl text-red-500">Get started</h1>
 
       
     </>

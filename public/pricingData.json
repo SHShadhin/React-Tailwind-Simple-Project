@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 15,
+    "currency": "USD",
+    "billing": "monthly",
+    "features": [
+      "Access to Gym Equipment",
+      "Locker Facility",
+      "1 Hour Daily Access",
+      "Free Water",
+      "Basic Fitness Guidance"
+    ],
+    "isPopular": false
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 30,
+    "currency": "USD",
+    "billing": "monthly",
+    "features": [
+      "Full Day Gym Access",
+      "Locker & Shower Facility",
+      "Group Classes (Yoga, Cardio)",
+      "Diet Plan",
+      "2 Personal Training Sessions"
+    ],
+    "isPopular": true
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 60,
+    "currency": "USD",
+    "billing": "monthly",
+    "features": [
+      "Unlimited Gym Access",
+      "Personal Trainer (Dedicated)",
+      "All Group Classes Included",
+      "Custom Diet Plan",
+      "Body Analysis Report",
+      "Sauna & Steam Bath Access"
+    ],
+    "isPopular": false
+  }
+]
